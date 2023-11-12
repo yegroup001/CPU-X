@@ -1,4 +1,4 @@
-# CPU-X V0.1
+# CPU-X
 This is a universal CPU benchmark software.<br/>
 You can use this software to test your CPU.<br/>
 It is now just a test version,which can only use all the threads.<br/>
