@@ -13,10 +13,10 @@ int main()
     char bool0;
     printf("Please enter the threads number you want to use:");
     scanf("%d",&thread_num);
-    printf("Whether you want to test the single thread performance:(y/n) ");
-    scanf("%c\n",&bool0);
+    //printf("Whether you want to test the single thread performance:(y/n) ");
+    //scanf("%c\n",&bool0);
     printf("\nWork start\nThe process may take a few minutes,please wait\n\n");
-    if(bool0=="y" || bool0=="Y")
+    /*if(bool0=="y" || bool0=="Y")
     {
         diff1=parallel(thread_num);
         diff2=parallel(1);
@@ -24,7 +24,7 @@ int main()
         printf(" %.2f 1thread",1000000.0/diff2);
         printf("\nMulti-threaded multiplier:%.2f",diff2/diff1);
     }
-    else
+    else*/
     {
         diff1=parallel(thread_num);
         end(diff1,thread_num);
