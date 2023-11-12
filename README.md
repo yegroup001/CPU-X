@@ -6,4 +6,4 @@ I'll release new versions with more powerful functions as soon as possible.<br/>
 Also,there will be a CPU benchmark score chart,so you can see how powerful your CPU is.<br/>
 Welcome for uploading your result!
 
-https://github.com/yegroup001/CPU-X/releases
+***Release:***https://github.com/yegroup001/CPU-X/releases
